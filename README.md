@@ -19,9 +19,8 @@ Visual storytelling project analyzing AfD’s performance in the 2025 German Fed
 
 
 # Tools & Technologies
--Python: pandas, matplotlib, seaborn, plotly, geopandas
--Jupyter Notebook
--Git + GitHub for version control
+- Python: pandas, matplotlib, seaborn, plotly, geopandas
+- Jupyter Notebook
 
 # Author
 Shiva Sankar Dasari
