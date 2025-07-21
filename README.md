@@ -2,7 +2,7 @@
 Visual storytelling project analyzing AfD’s performance in the 2025 German Federal Election using official datasets. Includes regional vote trends, demographic insights, and candidate profiles. Developed as part of a Data Visualization capstone at FH Kiel.
 
 # Project Overview
-- Created for the Data Visualization Capstone (FH Kiel).
+- Created for the Data Visualization Capstone Project (FH Kiel).
 - Explains where and why AfD performed strongly in 2025.
 - Uses official government data from the Federal Returning Officer.
 - Focuses on regional, demographic, and candidate-level analysis.
