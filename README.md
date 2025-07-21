@@ -9,7 +9,8 @@ Visual storytelling project analyzing AfD’s performance in the 2025 German Fed
 - Built with Jupyter Notebook + Python + Visuals.
 
 # Datasets Used
-- Downloaded from the official Federal Returning Officer (Bundeswahlleiter):
+- Downloaded from the official [Federal Returning Officer (Bundeswahlleiter)](https://www.bundeswahlleiterin.de/bundestagswahlen/2025/ergebnisse/opendata.html)
+
 - kerg.csv – Absolute votes & seats
 - kerg2.csv – Vote % and changes from 2021
 - bewerber.csv – Candidate details
