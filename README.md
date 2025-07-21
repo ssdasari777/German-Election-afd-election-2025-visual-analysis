@@ -26,4 +26,5 @@ Visual storytelling project analyzing AfD’s performance in the 2025 German Fed
 Shiva Sankar Dasari
 
 M.Sc. Data Science
+
 FH Kiel, Germany
